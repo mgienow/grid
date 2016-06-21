@@ -42,8 +42,11 @@ body {
 }
 .col-1-2 {
   width: 50%;
-
 }
+.col-1-4 {
+  width: 25%;
+}
+
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
