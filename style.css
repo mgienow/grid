@@ -31,6 +31,7 @@ body {
 }
  article {
    background: lightyellow;
+   padding: 10px;
  }
 .col-2-3 {
   width: 66.66%;
@@ -39,7 +40,10 @@ body {
 .col-1-3 {
   width: 33.33%
 }
+.col-1-2 {
+  width: 50%;
 
+}
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
